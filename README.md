@@ -7,7 +7,7 @@ After classifiers were trained, testing phase can be done using images provided 
 
 To run the application:
 
-  1. Open command line in your current work place.
+  1. Open command line in your current work space.
   2. Run python image-classifier.py
   3. Accuracy image of 2 images for each character showing the number of images classified correctly for each character.
   
